@@ -1,0 +1,10 @@
+
+
+
+kai javascript shorhand http://www.sitepoint.com/shorthand-javascript-techniques/ 
+Foundation
+Materialize
+Material Design Lite
+Bootstrap
+Other
+Custom
